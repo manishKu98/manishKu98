@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manish Kumar
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on open source Javascript project
 - 📫 How to reach me https://www.linkedin.com/in/manishku98/
